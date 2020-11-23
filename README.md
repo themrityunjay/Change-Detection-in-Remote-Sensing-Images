@@ -40,3 +40,10 @@ Thus, in conclusion, the cluster with the **lowest number of pixels**, and also 
 
 
 With this information, we will now build a change map – a binary image to show the output of change detection. We have chosen to keep the background black and will show the changes in white, i.e., intensity value of those pixels will be 255. You can do the reverse as well.
+
+
+![PRE IMAGE](Pre.jpg)
+![POST IMAGE](Post.jpg)
+![CHANGEMAP IMAGE](changemap.jpg)
+![CLEAN CHANGEMAP IMAGE](cleanchangemap.jpg)
+![DIFFERENCE IMAGE](diff.jpg)
