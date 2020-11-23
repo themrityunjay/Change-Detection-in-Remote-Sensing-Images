@@ -50,4 +50,4 @@ With this information, we will now build a change map – a binary image to show
 ### CLEAN CHANGEMAP IMAGE
 ![CLEAN CHANGEMAP IMAGE](cleanchangemap.jpg)
 ### DIFFERENCE IMAGE
-![DIFFERENCE IMAGE](diff.jpg)![POST IMA![POST IMAGE](Post.jpg)GE](Post.jpg)
+![DIFFERENCE IMAGE](diff.jpg)
